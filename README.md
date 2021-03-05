@@ -1,6 +1,7 @@
 # awesome-aws-training
 
-
+* [Workshops](#amazing-public-aws-workshops)
+    * [AppSync](#appsync-workshops)
 * [SDKs and Samples](#sdks-and-samples)
     * [Android](#android-sdk)
     * [C++](#c-sdk)
@@ -99,6 +100,16 @@
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contact Info](#contact-info)
 * [License](#license)
+
+
+### Amazing Public AWS Workshops
+
+*AWS and Partner Provided Workshops by Service Name or Technology*
+
+### AppSync Workshops
+
+* [AppSync Immersion Day :fire::fire::fire:](https://appsync-immersionday.workshop.aws/)
+
 
 ## SDKs and Samples
 
