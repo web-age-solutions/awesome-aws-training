@@ -106,6 +106,12 @@
 
 *AWS and Partner Provided Workshops by Service Name or Technology*
 
+<br/>
+<p align="center">
+  <img src="https://webagesolutions.s3.amazonaws.com/aws_workshop_picture.png">
+</p>
+<br/>
+
 ### AppSync Workshops
 
 * [AppSync Immersion Day :fire::fire::fire:](https://appsync-immersionday.workshop.aws/)
