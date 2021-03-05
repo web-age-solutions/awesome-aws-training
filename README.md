@@ -2,6 +2,7 @@
 
 * [Workshops](#amazing-public-aws-workshops)
     * [AppSync](#appsync-workshops)
+    * [Analytics](#analytics-workshops)
 * [SDKs and Samples](#sdks-and-samples)
     * [Android](#android-sdk)
     * [C++](#c-sdk)
@@ -115,6 +116,12 @@
 ### AppSync Workshops
 
 * [AppSync Immersion Day :fire::fire::fire:](https://appsync-immersionday.workshop.aws/)
+
+### Analytics Workshops
+
+* [AWS Purpose Built Database Workshop :fire::fire::fire:](https://amazon-rds-purpose-built.workshop.aws/)
+* [AWS IOT Analytics Workshop :fire::fire::fire:](https://iot-analytics.workshop.aws/)
+* [AWS Web Analytics with Amplify Workshop :fire::fire::fire:](https://amplify-analytics.workshop.aws/)
 
 
 ## SDKs and Samples
